@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @tvmofotibo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- <h1>teste</h1>
-
-<!---
-tvmofotibo/tvmofotibo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>oi, eu sou Alvino</p>
+<input type="button" name="" id="" value="sabe onde começei" onclick="mais()">
+<details>
+    <p id="msg" ></p>
+</details>
+<script>
+    function mais() {
+        document.getElementById('msg').innerText='comecei estudando python'
+    }
+</script>
